@@ -75,3 +75,5 @@ You can open this file with Microsoft Excel, Apple Numbers, Google Sheets, or an
 
 Disclaimer: The accuracy of WHOIS data can vary. A domain appearing "available" is a strong indicator but not a 100% guarantee. Always double-check availability with a domain registrar.
 
+Made by GrahamMiranda.com | tech.grahammiranda.com
+
